@@ -5,3 +5,9 @@ from django.http import HttpResponse
 
 def home(request):
     return render(request, "store/home.html")
+
+def products(request):
+    return render(request, 'store/products')
+
+def customer(request):
+    return render(request, 'store/customer')

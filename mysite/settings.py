@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',
     'store.apps.StoreConfig',
+    'voting.apps.VotingConfig',
 ]
 
 MIDDLEWARE = [
