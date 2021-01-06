@@ -1,1 +1,1 @@
-# This repo is created to represent my own style/creation website.
+# This project is created to learn and use django
